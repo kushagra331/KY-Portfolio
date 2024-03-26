@@ -18,6 +18,7 @@ function Contacts() {
   ]);
   const scrollTab=useRef();
   // customHook();
+  //new
   return (
     <section className='contacts' ref={scrollTab}>
        <div className="title" >
