@@ -24,7 +24,7 @@ function Contacts() {
         This is my Contacts
        </div>
        <div className="des" >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam perspiciatis quae veniam amet nesciunt voluptatibus quis consectetur consequatur quisquam harum.
+        I live in Bhopal. My ghar ka naam is kannu :/
        </div>
        <div className="list" >
         {
