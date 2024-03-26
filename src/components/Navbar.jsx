@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
-import { changeTabActive } from '../redux/action'
-import { Connect } from 'react-redux'
+// import { changeTabActive } from '../redux/action'
+// import { Connect } from 'react-redux'
 
 function Navbar() {
-  alert(changeTabActive)
+  // alert(changeTabActive)
   const [listNav]=useState(["home","Skills","Projects","Contact"])
 
   return (
@@ -21,8 +21,8 @@ function Navbar() {
     </header>
   )
 }
-const mapStatetoProp=(state)=>({
-    activeTab:state.activeTab
-})
+// const mapStatetoProp=(state)=>({
+//     activeTab:state.activeTab
+// })
 export default Navbar;
 
