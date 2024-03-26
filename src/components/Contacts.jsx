@@ -25,7 +25,7 @@ function Contacts() {
         This is my Contacts
        </div>
        <div className="des" >
-        I live in Bhopal. My ghar ka naam is kannu :/
+        I live in Bhopal. My ghar ka naam is Kannu Chinese :/
        </div>
        <div className="list" >
         {
